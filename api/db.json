@@ -4,6 +4,16 @@
       "title": "React and Redux Tutorial",
       "description": "React isn't too bad, but redux will break your brain for a while until you've practiced it enough",
       "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "Probably a video game",
+      "id": 2
+    },
+    {
+      "title": "a third one",
+      "description": "another video game",
+      "id": 3
     }
   ]
 }
