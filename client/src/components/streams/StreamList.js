@@ -4,7 +4,12 @@ import React from 'react';
 const StreamList = () => {
 
 
-  return <div>StreamList</div>
+  return (
+    <div>
+    <div> <a href= "/streams/new" ><button>New Stream</button></a></div>
+    StreamList
+    </div>
+  )
 }
 
 
