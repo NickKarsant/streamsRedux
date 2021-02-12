@@ -28,16 +28,25 @@
       "id": 5
     },
     {
-      "title": "this one made while signed in",
-      "description": "I dunno about the last one though. i think it was made when i wasnt signed in",
-      "userId": "115522242438372473427",
+      "title": "dfgbsdfbs",
+      "description": "what is going on? this is some weird ass behabior",
       "id": 6
     },
     {
       "title": "Unexpected behavor",
-      "description": "this behavior was not expected.",
-      "userId": "115522242438372473427",
+      "description": "change cahnged changed cahgned",
       "id": 7
+    },
+    {
+      "title": "Making Reusable Components",
+      "description": "reusable form for create and edit. number 88888",
+      "id": 8
+    },
+    {
+      "title": "ANother signed out stream",
+      "description": "dont want the buttons filling up the screen",
+      "userId": null,
+      "id": 9
     }
   ]
 }
