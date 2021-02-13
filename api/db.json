@@ -11,42 +11,10 @@
       "id": 2
     },
     {
-      "title": "a third one",
-      "description": "another video game",
-      "id": 3
-    },
-    {
-      "title": "COD: Warzone",
-      "description": "Not cheating and actually winning cuz I'm not a fuck, made by me",
+      "title": "testing delete route",
+      "description": "figurting out the delete route modal",
       "userId": "115522242438372473427",
-      "id": 4
-    },
-    {
-      "title": "vdeo game",
-      "description": "another stream by me",
-      "userId": null,
-      "id": 5
-    },
-    {
-      "title": "dfgbsdfbs",
-      "description": "what is going on? this is some weird ass behabior",
-      "id": 6
-    },
-    {
-      "title": "Unexpected behavor",
-      "description": "change cahnged changed cahgned",
-      "id": 7
-    },
-    {
-      "title": "Making Reusable Components",
-      "description": "reusable form for create and edit. number 88888",
-      "id": 8
-    },
-    {
-      "title": "ANother signed out stream",
-      "description": "dont want the buttons filling up the screen",
-      "userId": null,
-      "id": 9
+      "id": 10
     }
   ]
 }
