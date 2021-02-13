@@ -19,7 +19,7 @@ class StreamDelete extends React.Component {
     const id = this.props.match.params.id;
     return(
       <React.Fragment>
-        <Link onClick={() => this.props.deleteStream(id)} className="ui negative button">Delete</Link>
+        <button onClick={() => this.props.deleteStream(id)} className="ui negative button">Delete</button>
         <Link to="/" className="ui button">Cancel</Link>
       </React.Fragment>
     );
@@ -39,7 +39,7 @@ class StreamDelete extends React.Component {
           title="Delete Stream"
           content={this.renderContent()}
           actions={this.renderActions()}
-          onDismiss={() => history.push('/streams/delete')}
+          onDismiss={() => history.push('/')}
         />
     );
   }
