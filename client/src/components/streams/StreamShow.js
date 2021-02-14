@@ -17,8 +17,8 @@ class StreamShow extends React.Component {
     return (
       <div>
         {/* <ReactPlayer url=""/> */}
-        <h1 className= "header">{this.props.stream.title}</h1>
-        <h5 className= "content">{this.props.stream.description}</h5>
+        <h1 className="header">{this.props.stream.title}</h1>
+        <h5 className="content">{this.props.stream.description}</h5>
       </div>
     )
   }
